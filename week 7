@@ -1,0 +1,53 @@
+User Stories:
+>An erp is used to manage the Resources for college and inventory.Here in college  employees,students,faculty etc . We need a log-in page with verification of the
+account . Session time out for security.Forgot password and re-set password . We need an option to change the user name and the details.In KL University we have so
+many
+branches and programs we have to maintain all the details of the students in well designed managing System so, we use ERP.
+>Here we are given with KL University ERP. We need Different types of roles in erp system to manage the students,faculty, and non-teaching staff. Roles to be involved 
+are Administrator,Student, faculty and office. The design of the database is to be in a way that it follows all rules of normalization. 
+>There is an Administrator role where he has the access to the all roles means the students,faculty and office with read,write,modify and adding user. He has all the
+permissions with him.
+>Teacher should have a option to mark attendance,upload marks,sharing course material and he should get accessed to the only his class students.
+>Office role is there where they can generate reports, status of the students and to maintain the fee payment datails with them.
+>Student role is there where he can register for a course and he can choose his sections and the details of the teacher and course ID, course Name, Faculty Name at
+the time of the registration.Student have to pay the fee for transport and tuition.
+
+Advantages and DisAdvantages of ERP:
+1. Complete Automation
+>A robust solution for college management is the implementation of ERP software. It helps the authorities coordinate every aspect of college work. They keep track of 
+the students, pupils, coordinators, teachers, tests, fees, and more. It enables easy and quick decision making too.
+>The information is available across a single integrated dashboard. This facilitates swift communication between departments. Automation also reduces the chance of
+errors that comes from manual work. It eliminates repetitive work for data evaluation and processing. Hence, the ERP software takes on a holistic approach that 
+allows comprehensive college management. 
+
+2. Internal Control
+>The authorities at every college want to have complete control over the system. They want to be aware and share updates with the rest of the students and faculty.
+Besides, they also want information about the ongoing college activities, student performance levels, attendance, institutional effectiveness etc. This is where
+implementing the ERP software comes to their instant rescue. You can access all information and data from a single integrated platform. You can operate the 
+different modules and keep track of everyday tasks. Thus, it allows complete monitoring of administrating tasks along with robust internal control. 
+
+3. Connection
+>The effectiveness of every institute gets lost due to poor connectivity. The authorities should take care of this aspect. By installing the ERP software, you can
+communicate to anyone across departments. It prevents rework, time waste and unorganized work. 
+>The ERP system is, therefore, a one-stop solution for the colleges. Collaboration is possible beyond the classrooms. This, in turn, will reduce the workload 
+significantly. Authorities can coordinate with the teachers, students, their parents. This way, they can ensure a seamless workflow. The aim is to stay connected
+anytime and anywhere. 
+
+4. Handle Multiple Branches and Departments 
+>Multi-level ERP solutions make it accessible for people to manage different branches of the institution. The same goes for educational organizations like colleges.
+You can manage different segments and departments. The principal can evaluate performance levels and monitor class wise activities. This will range from student and
+staff attendance, collection of college fees, library fees and more. 
+
+5. Data Management and Security
+>It is not possible to manually track every single data daily. This is why you need robust ERP software to automate the proves. A well-built college ERP solution 
+will help the institute monitor every operation. This will ensure an unhindered workflow and enhance the efficiency of the institute. You can track single and
+multiple records of the students. You can check the college alumni, books, money and other resources. The data is safe for storage than it is physically. 
+The authorities can also control access of this data to specified people alone. ERP systems also provide backup methods so you can store all data in files within 
+the software. 
+>At Lee & Nee Software (Exports) Limited, we design the best ERP software solutions for colleges. Known as Campus Konnect, our ERP software is tailor-made according
+to the college verticals and other requirements. The complete ERP offers different modules taking care of online admissions to student exams. You can visit the
+website for more information. 
+
+Issues:-
+>Most of the issues are faced by the Students where he or she is facing at Fee payment's for tuition or transport or mess. At time of registration not mentioning
+on how many courses we need to opt.
