@@ -1,0 +1,18 @@
+USER STORIES:
+    >>>>AGRICULTURE & AQUACULTURE SYSTEMS(AAS)<<<<<
+      The state Government wants to maintain the database of a all the farmers and their agricultural land details like survey number,total land in hectors,village name,usage i.e
+      agriculture or aquaculture.
+  >USERS:
+    STATE Government officilas,bank people ,farmers,and guests are users of thee portals.
+  >BANKS:
+     BANKS WILL PROVIDED LOANS FOR THEIR CULTIVATION WITH ONE YEAR DURATION based on their land size and their cultivation type.
+  >FARMERS:
+     Based on the type of agriculture and aquaculture ,the farmers can get the feticide details from the agriculture department for their cultivation and aquaculture.
+     ISSUES:
+        based on clearance of the loan any one can buy land from existing farmer.the new farmer details have to update in the portal.
+        Those who have not availed loan facility the amount will be transferred to their savings account and the deposited and can be withdrawn.
+        
+MILESTONES:
+    1. CLEAR OF LOANS AND UPDATE DETAILS IN PORTAL.
+    2.REGISTER AND VIEW DETAILS.
+    3.GOVERNMENT MAY ALSO TRANSFER MONEY FOR ANY SUBSIDY /INSURABNCE AMOUNT TO AADHAR LINKED BANK ACCOUNT.
