@@ -1,0 +1,20 @@
+USER STORIES:
+            INDIA is moved into digital world after banned of rs.500/- and rs. 1000/- notes.
+            At presentt all the citizens of india is moving to use online facility 
+            for purchasing products and recharge for their mobile and dth coneections.The
+            customer who needs do  online transactions needs to register.
+              
+PRODUCT PURCHASE: 
+        customer can directly add certain amount to online transaction account.
+        FROM THAT ACCOUNT CUSTOMER CAN PERFORM TRANSACTION IN REAL TIME Basis.
+     
+IDENTIFYING PRODUCT: 
+        customer can pay amount through online banking 
+        /credit card/debit card.The online portal having various products
+        which have product id,product name,images of the product.
+        The customer will identify one product and process for further transaction.
+        
+ RECHARGE OF A MOBILE/DTH: 
+                     THE   customer can type mobile number,select operator,the system needs
+                     to displays the all plans available for the specific mobile/operator.
+                     After selection of all the above,custtomer can pay amount in any of mode mentioned in the above
